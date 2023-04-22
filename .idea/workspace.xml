@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a240fda9-6dd8-44d8-8b59-1c33b6205e26" name="Changes" comment="">
+    <list default="true" id="a240fda9-6dd8-44d8-8b59-1c33b6205e26" name="Changes" comment="Java Advanced 2. Collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linked_list/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_list/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linked_list/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_list/ListHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linked_list/ListHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_list/ListHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671136156128</updated>
-      <workItem from="1682170775774" duration="3176000" />
+      <workItem from="1682170775774" duration="4736000" />
     </task>
+    <task id="LOCAL-00001" summary="Java Advanced 2. Collections">
+      <created>1682174168646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682174168646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Advanced 2. Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced 2. Collections" />
   </component>
 </project>

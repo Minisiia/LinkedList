@@ -51,9 +51,6 @@ public class ListHandler {
         return list.stream().reduce(Integer.MAX_VALUE, Integer::min);
     }
 
-
-
-
     public static void printList(List<Integer> stringList) {
         for (Integer temp : stringList) {
             System.out.print(temp + " ");
